@@ -24,7 +24,7 @@ all programs that i use (only matters to me for future reinstalls)
 - cava
 - spotifytui
 - bluez + blueman
-- discord / vesktop
+- discord / vesktop / webcord
 - dunst
 - htop
 - flameshot

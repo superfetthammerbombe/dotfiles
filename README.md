@@ -4,6 +4,7 @@ these are my configs for different wm's and programs
 wm's include:
 - i3 (autotiling recommended)
 - bspwm (sxhkd included)
+- hyprland as of 28/10/24
 
 programs include:
 - kitty
@@ -31,6 +32,7 @@ all programs that i use (only matters to me for future reinstalls)
 - neofetch
 - nvim
 - polybar
+- waybar
 - yay
 - rofi
 - opentabletdriver
